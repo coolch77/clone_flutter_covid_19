@@ -2,6 +2,11 @@
 
 This project is a clone-coding of the Covid 19 Flutter UI from the YouTube channel 'Flutter way'.
 
+![image](https://user-images.githubusercontent.com/36909992/125219553-eb784e00-e2ff-11eb-9e88-11830a14380c.png)
+
+YouTube : https://www.youtube.com/watch?v=zx6uMCoW2gQ
+GitHub : https://github.com/abuanwar072/Covid-19-Flutter-UI
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
