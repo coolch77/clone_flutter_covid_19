@@ -1,6 +1,6 @@
 # clone_covid_19
 
-A new Flutter project.
+This project is a clone-coding of the Covid 19 Flutter UI from the YouTube channel 'Flutter way'.
 
 ## Getting Started
 
